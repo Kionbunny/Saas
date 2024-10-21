@@ -4,7 +4,7 @@ import { dark } from "@clerk/themes";
 `ThemeProvider` component from a file located at `@/components/theme-provider`. This component is
 likely used to provide theming functionality to the application, allowing for easy switching between
 different themes or styles. */
-import { ThemeProvider } from "@/components/theme-provider.tsx";
+import { ThemeProvider } from "@/components/theme-provider";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
